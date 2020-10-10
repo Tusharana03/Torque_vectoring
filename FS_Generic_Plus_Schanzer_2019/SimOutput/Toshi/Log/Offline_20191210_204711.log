@@ -1,0 +1,34 @@
+APPLICATION	CarMaker 7.0.3 - Car_Generic #423 (win64-7.0.3)
+COMPILED	fh@obelix.ipg 2018-10-05 14:03:57
+SIM_START	testfsgen	2019-12-10 20:51:14
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	80.433
+ERROR		Roll angle too high (80.13 deg)
+SIM_ABORT	testfsgen	80.445s	1567.27m
+APPLICATION	CarMaker 7.0.3 - Car_Generic #423 (win64-7.0.3)
+COMPILED	fh@obelix.ipg 2018-10-05 14:03:57
+SIM_START	testfsgen	2019-12-10 20:56:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	21.272
+SIM_END		testfsgen	21.281s	399.47m
+APPLICATION	CarMaker 7.0.3 - Car_Generic #423 (win64-7.0.3)
+COMPILED	fh@obelix.ipg 2018-10-05 14:03:57
+SIM_START	testfsgen	2019-12-10 21:07:18
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	71.866
+SIM_END		testfsgen	71.875s	1446.44m

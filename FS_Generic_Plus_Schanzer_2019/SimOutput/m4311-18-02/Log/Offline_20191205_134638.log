@@ -1,0 +1,501 @@
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:47:19
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	46.669
+SIM_END		sstorque4	46.678s	936.767m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:52:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	47.915
+ERROR		Wheelspeed too high of tire 1: +3601.034
+SIM_ABORT	sstorque4	47.927s	945.857m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:53:06
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	47.915
+ERROR		Wheelspeed too high of tire 1: +3601.034
+SIM_ABORT	sstorque4	47.927s	945.857m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:54:05
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	48.181
+SIM_END		sstorque4	48.19s	944.983m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:54:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	55.512
+SIM_END		sstorque4	55.521s	1128.52m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:55:33
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	47.433
+ERROR		Vehicle leaves road at about x=-122.051, y=-197.761 TireNo=1
+SIM_ABORT	sstorque4	47.445s	954.298m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:56:14
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	54.594
+SIM_END		sstorque4	54.6s	1109.13m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:56:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	45.562
+ERROR		Embedded FARoadSensor Geo:  xyz (-76.14 -217.90 0.17) not found on Road
+SIM_ABORT	sstorque4	45.574s	915.182m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:57:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	53.475
+SIM_END		sstorque4	53.481s	1085.51m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:58:30
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	51.832
+SIM_END		sstorque4	51.838s	1051.09m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 13:59:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	53.355
+SIM_END		sstorque4	53.361s	1083.24m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:00:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	50.143
+SIM_END		sstorque4	50.149s	1015.43m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:00:50
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	50.802
+SIM_END		sstorque4	50.808s	1029.31m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:01:28
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	51.125
+SIM_END		sstorque4	51.131s	1036.13m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:02:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	51.633
+SIM_END		sstorque4	51.639s	1046.78m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:02:46
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	51.657
+SIM_END		sstorque4	51.663s	1047.38m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:03:24
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	54.644
+SIM_END		sstorque4	54.65s	1110.19m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:04:04
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	49.670
+SIM_END		sstorque4	49.676s	1002.07m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:04:42
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	50.256
+SIM_END		sstorque4	50.262s	1017.2m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:05:20
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	49.785
+SIM_END		sstorque4	49.791s	1007.17m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:05:58
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	50.053
+SIM_END		sstorque4	50.059s	1013.11m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:06:35
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	50.090
+SIM_END		sstorque4	50.096s	1014.12m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:07:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	50.596
+SIM_END		sstorque4	50.602s	1024.86m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:07:49
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	49.910
+SIM_END		sstorque4	49.916s	1010.37m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:08:27
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	49.651
+SIM_END		sstorque4	49.657s	1004.94m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:09:05
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	50.557
+SIM_END		sstorque4	50.563s	1024.05m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:09:52
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	51.663
+SIM_END		sstorque4	51.669s	1047.4m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:11:29
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	51.878
+SIM_END		sstorque4	51.884s	1051.94m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:14:01
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	124.738
+SIM_END		sstorque4	124.744s	2489.67m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:15:54
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	72.365
+ERROR		Roll angle too high (-80.03 deg)
+SIM_ABORT	sstorque4	72.377s	1444.49m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:17:46
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	117.255
+SIM_END		sstorque4	117.264s	2244.27m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:18:59
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	77.540
+SIM_END		sstorque4	77.549s	1492.35m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:20:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	52.574
+SIM_END		sstorque4	52.583s	1013.42m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:20:43
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	48.641
+SIM_END		sstorque4	48.65s	946.891m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:37:46
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	55.273
+SIM_END		sstorque4	55.279s	1081.37m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:38:40
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	21.701
+SIM_END		sstorque4	21.71s	400.646m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:39:14
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	19.191
+SIM_END		sstorque4	19.197s	349.74m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:44:40
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	49.910
+SIM_END		sstorque4	49.916s	972.632m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:45:14
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	30.616
+SIM_END		sstorque4	30.622s	581.446m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:46:40
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	51.861
+SIM_END		sstorque4	51.867s	1012.19m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:51:59
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	48.376
+SIM_END		sstorque4	48.385s	394.395m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:52:44
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	53.407
+SIM_END		sstorque4	53.413s	436.336m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:53:35
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	18.865
+SIM_END		sstorque4	18.874s	148.344m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 14:54:22
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	30.251
+SIM_END		sstorque4	30.257s	243.227m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	sstorque4	2019-12-05 15:06:33
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	sstorque4
+
+TIME	1348.548
+WARNING		IPGDriver: Learn procedure not finished, knowledge not complete. (id=202)
+SIM_END		sstorque4	1348.56s	45256m

@@ -1,0 +1,100 @@
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-12-08 10:31:29
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30.012s	540.755m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=148, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-12-08 10:32:08
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.002
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=148, ch=2
+
+SIM_END		unknown	30.012s	540.755m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-12-08 10:32:58
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30.012s	510.784m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=148, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-12-08 10:33:47
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30.012s	397.489m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=148, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-12-08 10:34:41
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.002
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=148, ch=2
+
+SIM_END		unknown	30.012s	583.689m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-12-08 10:35:33
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.882
+ERROR		Vehicle leaves road at about x=-50.2551, y=-210.639 TireNo=0
+SIM_ABORT	unknown	44.894s	893.624m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=148, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-12-08 10:36:34
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.882
+ERROR		Vehicle leaves road at about x=-50.2551, y=-210.639 TireNo=0
+SIM_ABORT	unknown	44.894s	893.624m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=148, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 10:46:00
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	87.925
+ERROR		Roll angle too high (-80.07 deg)
+SIM_ABORT	testfsgen	87.937s	1827.46m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=150, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 10:47:57
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	87.925
+ERROR		Roll angle too high (-80.07 deg)
+SIM_ABORT	testfsgen	87.937s	1827.46m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=150, ch=2
+

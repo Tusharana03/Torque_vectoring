@@ -1,0 +1,150 @@
+APPLICATION	CarMaker 7.0.3 - Car_Generic #420 (win64-7.0.3)
+COMPILED	fh@obelix.ipg 2018-10-05 14:03:44
+FIRST_INIT	(internal default used)	2018-12-19 10:56:30
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:56:31
+SIM_START	My_Training/MyFS_Braking	2018-12-19 10:56:31
+TIME	0.000
+SIMULATE	My_Training/MyFS_Braking
+
+TIME	32.901
+SIM_END		My_Training/MyFS_Braking	32.892s	450.224m
+SIM_START	My_Training/MyFS_Braking	2018-12-19 10:56:45
+TIME	0.000
+SIMULATE	My_Training/MyFS_Braking
+
+TIME	32.901
+SIM_END		My_Training/MyFS_Braking	32.892s	450.224m
+SIM_START	My_Training/MyFS_Braking	2018-12-19 10:56:51
+TIME	0.000
+SIMULATE	My_Training/MyFS_Braking
+
+TIME	32.901
+SIM_END		My_Training/MyFS_Braking	32.892s	450.224m
+SIM_START	My_Training/MyFS_Braking	2018-12-19 10:57:13
+TIME	0.000
+SIMULATE	My_Training/MyFS_Braking
+
+TIME	32.901
+SIM_END		My_Training/MyFS_Braking	32.892s	450.224m
+SIM_START	My_Training/MyFS_Braking	2018-12-19 10:57:27
+TIME	0.000
+SIMULATE	My_Training/MyFS_Braking
+
+TIME	32.895
+SIM_END		My_Training/MyFS_Braking	32.892s	450.224m
+SIM_START	My_Training/MyFS_Braking	2018-12-19 10:58:08
+TIME	0.000
+SIMULATE	My_Training/MyFS_Braking
+
+TIME	32.895
+SIM_END		My_Training/MyFS_Braking	32.892s	450.224m
+TIME	35.596
+SIM_START	Examples_FS/FS_Nürburgring-small	2018-12-19 10:59:09
+TIME	0.000
+SIMULATE	Examples_FS/FS_Nürburgring-small
+
+TIME	23.003
+SIM_END		Examples_FS/FS_Nürburgring-small	23s	381.338m
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 10:59:48
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	150.110
+		Lap   1: t= 150.109s	Dist=2581.4519m	sRoad=0.4036m
+TIME	297.102
+		Lap   2: t= 146.992s	Dist=2583.2004m	sRoad=0.4148m
+TIME	444.094
+		Lap   3: t= 146.992s	Dist=2583.1896m	sRoad=0.4152m
+TIME	500.003
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	500s	8730.57m
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 11:03:49
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	150.110
+		Lap   1: t= 150.109s	Dist=2581.4519m	sRoad=0.4036m
+TIME	174.370
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	174.367s	3097.16m
+TIME	193.890
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 11:10:01
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	97.477
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	97.474s	1577.5m
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 11:11:58
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	150.110
+		Lap   1: t= 150.109s	Dist=2581.4519m	sRoad=0.4036m
+TIME	208.746
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	208.743s	3632m
+TIME	0.001
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 11:38:16
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	0s	0m
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 11:38:45
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	20.036
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	20s	346.982m
+TIME	77.319
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 11:48:45
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	20.003
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	20s	346.982m
+TIME	63.787
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 11:56:28
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	20.003
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	20s	346.982m
+TIME	65.393
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 12:04:25
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	20.003
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	20s	346.91m
+TIME	51.150
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 12:09:59
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	20.003
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	20s	346.91m
+TIME	0.001
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 12:24:34
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	16.450
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	16.447s	223.568m
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 12:24:55
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	19.296
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	19.293s	278.636m
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 12:25:17
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	20.003
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	20s	291.193m
+TIME	28.288
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 12:27:02
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	20.003
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	20s	346.91m

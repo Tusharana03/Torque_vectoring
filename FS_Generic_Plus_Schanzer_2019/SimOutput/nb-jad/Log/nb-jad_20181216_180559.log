@@ -1,0 +1,53 @@
+APPLICATION	CarMaker 7.0.3 - Car_Generic #420 (win64-7.0.3)
+COMPILED	fh@obelix.ipg 2018-10-05 14:03:44
+FIRST_INIT	(internal default used)	2018-12-16 18:05:59
+TIME	0.000
+SIM_END			0s	0m
+IDLE	18:06:00
+SIM_START	Examples_FS/FS_Autocross	2018-12-16 18:06:03
+TIME	0.014
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Autocross
+
+TIME	12.032
+SIM_END		Examples_FS/FS_Autocross	12.028s	30.0044m
+SIM_START	Examples_FS/FS_Autocross	2018-12-16 18:06:17
+TIME	0.021
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Autocross
+
+TIME	91.906
+SIM_END		Examples_FS/FS_Autocross	91.902s	493.539m
+TIME	96.472
+SIM_START	Examples_FS/FS_Autocross	2018-12-16 18:07:23
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Autocross
+
+TIME	40.717
+SIM_END		Examples_FS/FS_Autocross	40.714s	206.164m
+SIM_START	Examples_FS/FS_Autocross	2018-12-16 18:07:45
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Autocross
+
+TIME	26.160
+SIM_END		Examples_FS/FS_Autocross	26.157s	107.674m
+TIME	99.091
+SIM_START	FCM_Tutorial/Tutorial_FS_Example_6_0	2018-12-16 18:20:01
+TIME	0.017
+WARNING		Pylon detection is disabled because of failed reading of pylons
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+ERROR		Driver_RoadRouteEvalST:  st (200.00 0.00) not found on Route 'Route_0'
+SIM_ABORT	FCM_Tutorial/Tutorial_FS_Example_6_0	0s	107.674m
+TIME	9.593
+SIM_START	FCM_Tutorial/Tutorial_FS_Example_6_0	2018-12-16 18:21:37
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+SIM_END		FCM_Tutorial/Tutorial_FS_Example_6_0	0s	0m
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,732 @@
+APPLICATION	CarMaker 7.0.3 - Car_Generic #420 (win64-7.0.3)
+COMPILED	fh@obelix.ipg 2018-10-05 14:03:44
+FIRST_INIT	(internal default used)	2018-12-19 14:34:46
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:34:46
+SIM_START	unknown	2018-12-19 14:34:47
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30s	624.915m
+SIM_START	unknown	2018-12-19 14:35:31
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30s	624.919m
+TIME	52.120
+SIM_START	unknown	2018-12-19 14:39:43
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.003
+SIM_END		unknown	30s	622.863m
+TIME	32.872
+SIM_START	unknown	2018-12-19 14:40:43
+TIME	0.000
+SIMULATE	unknown
+
+TIME	17.016
+SIM_END		unknown	17.013s	317.241m
+TIME	172.143
+SIM_START	unknown	2018-12-19 15:06:53
+TIME	0.017
+ERROR		Man 0: Unknown command '[Distance>=1800 DVAwr DM.Brake Abs -1 1'
+
+SIM_ABORT	unknown	0s	317.241m
+TIME	2.882
+SIM_START	unknown	2018-12-19 15:07:22
+TIME	0.018
+ERROR		Man 0: Unknown command '[Dist>=1800 DVAwr DM.Brake Abs -1 1'
+
+SIM_ABORT	unknown	0s	0m
+TIME	7.173
+SIM_START	unknown	2018-12-19 15:08:34
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Man 0, cmd line 2: unknown var "Distance"
+SIM_ABORT	unknown	0.001s	0m
+SIM_START	unknown	2018-12-19 15:08:50
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Man 0, cmd line 2: unknown var "Dist"
+SIM_ABORT	unknown	0.001s	0m
+TIME	15.844
+SIM_START	unknown	2018-12-19 15:11:30
+TIME	0.000
+SIMULATE	unknown
+
+TIME	47.124
+SIM_END		unknown	47.121s	278.96m
+SIM_START	unknown	2018-12-19 15:12:33
+TIME	0.000
+SIMULATE	unknown
+
+TIME	9.184
+SIM_END		unknown	9.181s	129.144m
+SIM_START	unknown	2018-12-19 15:12:44
+TIME	0.000
+SIMULATE	unknown
+
+TIME	738.876
+SIM_END		unknown	738.873s	129.152m
+SIM_START	unknown	2018-12-19 15:25:05
+TIME	0.000
+SIMULATE	unknown
+
+TIME	15.614
+SIM_END		unknown	15.611s	395.58m
+SIM_START	unknown	2018-12-19 15:25:31
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.496
+ERROR		Vehicle leaves road at about x=-14.8469, y=-410.08 TireNo=1
+SIM_ABORT	unknown	28.496s	883.036m
+TIME	32.870
+SIM_START	unknown	2018-12-19 15:26:45
+TIME	0.000
+SIMULATE	unknown
+
+TIME	27.864
+ERROR		Vehicle leaves road at about x=-12.2505, y=-383.778 TireNo=1
+SIM_ABORT	unknown	27.864s	863.67m
+TIME	36.013
+SIM_START	unknown	2018-12-19 15:28:36
+TIME	0.000
+SIMULATE	unknown
+
+TIME	27.864
+ERROR		Vehicle leaves road at about x=-12.2505, y=-383.778 TireNo=1
+SIM_ABORT	unknown	27.864s	863.67m
+TIME	35.643
+SIM_START	unknown	2018-12-19 15:30:23
+TIME	0.016
+WARNING		IPGDriver: Correction of max. steering vel. (lateral controller): For basic learning max. steering vel. is set to 500 deg/s (id=200)
+WARNING		IPGDriver: Correction of max. steering acc. (lateral controller): For basic learning max. steering acc. is set to 3000 deg/ss (id=200)
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.329
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	65.755
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	86.334
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	106.175
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	125.256
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	143.627
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	161.356
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	178.497
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	195.106
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	211.211
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	226.809
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	241.950
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	256.676
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	271.012
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	1627.453
+SIM_END		unknown	1627.44s	18912.1m
+TIME	1641.357
+SIM_START	unknown	2018-12-19 15:34:31
+TIME	0.000
+SIMULATE	unknown
+
+TIME	232.349
+SIM_END		unknown	232.34s	3757.06m
+TIME	236.023
+SIM_START	unknown	2018-12-19 15:35:23
+TIME	0.000
+SIMULATE	unknown
+
+TIME	232.349
+SIM_END		unknown	232.34s	3757.06m
+SIM_START	unknown	2018-12-19 15:35:45
+TIME	0.000
+SIMULATE	unknown
+
+TIME	232.349
+SIM_END		unknown	232.34s	3757.06m
+TIME	234.381
+SIM_START	unknown	2018-12-19 15:36:20
+TIME	0.000
+SIMULATE	unknown
+
+TIME	69.225
+		Lap   1: t=  69.224s	Dist=1877.9906m	sRoad=0.4256m
+TIME	136.980
+		Lap   2: t=  67.755s	Dist=1877.3662m	sRoad=0.4269m
+SIM_END		unknown	136.98s	3755.38m
+SIM_START	unknown	2018-12-19 15:36:36
+TIME	0.000
+SIMULATE	unknown
+
+TIME	69.225
+		Lap   1: t=  69.224s	Dist=1877.9906m	sRoad=0.4256m
+TIME	136.980
+		Lap   2: t=  67.755s	Dist=1877.3662m	sRoad=0.4269m
+SIM_END		unknown	136.98s	3755.38m
+SIM_START	unknown	2018-12-19 15:37:33
+TIME	0.000
+SIMULATE	unknown
+
+TIME	159.467
+SIM_END		unknown	159.458s	3725.15m
+SIM_START	unknown	2018-12-19 15:37:57
+TIME	0.000
+SIMULATE	unknown
+
+TIME	20.115
+SIM_END		unknown	20.112s	445.44m
+TIME	22.943
+SIM_START	unknown	2018-12-19 15:38:47
+TIME	0.000
+SIMULATE	unknown
+
+TIME	157.452
+SIM_END		unknown	157.449s	3669.35m
+SIM_START	unknown	2018-12-19 15:41:35
+TIME	0.000
+SIMULATE	unknown
+
+TIME	8.276
+SIM_END		unknown	8.273s	63.6315m
+SIM_START	unknown	2018-12-19 15:41:52
+TIME	0.000
+SIMULATE	unknown
+
+TIME	159.461
+SIM_END		unknown	159.458s	3725.15m
+SIM_START	unknown	2018-12-19 15:44:52
+TIME	0.000
+SIMULATE	unknown
+
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 0.154000, ErrInd = 102). (id=200)
+ERROR		Pitch angle too high (-80.05 deg)
+SIM_ABORT	unknown	0.867s	0.272484m
+TIME	4.398
+SIM_START	unknown	2018-12-19 15:45:29
+TIME	0.000
+SIMULATE	unknown
+
+TIME	36.903
+ERROR		Vehicle leaves road at about x=26.5582, y=-351.843 TireNo=0
+SIM_ABORT	unknown	36.903s	818.212m
+TIME	57.518
+SIM_START	unknown	2018-12-19 15:49:33
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.604
+		Lap   1: t=  68.603s	Dist=1864.0375m	sRoad=0.4125m
+TIME	135.690
+		Lap   2: t=  67.086s	Dist=1860.2008m	sRoad=0.4192m
+SIM_END		unknown	135.69s	3724.27m
+SIM_START	unknown	2018-12-19 15:50:20
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.604
+		Lap   1: t=  68.603s	Dist=1864.0375m	sRoad=0.4125m
+TIME	135.690
+		Lap   2: t=  67.086s	Dist=1860.2008m	sRoad=0.4192m
+SIM_END		unknown	135.69s	3724.27m
+TIME	176.444
+SIM_START	unknown	2018-12-19 15:57:36
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.604
+		Lap   1: t=  68.603s	Dist=1864.0375m	sRoad=0.4125m
+TIME	135.690
+		Lap   2: t=  67.086s	Dist=1860.2008m	sRoad=0.4192m
+SIM_END		unknown	135.69s	3724.27m
+SIM_START	unknown	2018-12-19 15:58:13
+TIME	0.000
+SIMULATE	unknown
+
+TIME	178.669
+SIM_END		unknown	178.666s	3738.97m
+TIME	189.584
+SIM_START	unknown	2018-12-19 16:00:40
+TIME	0.000
+SIMULATE	unknown
+
+TIME	157.668
+SIM_END		unknown	157.664s	3725.18m
+TIME	162.851
+SIM_START	unknown	2018-12-19 16:02:04
+TIME	0.011
+ERROR		IPGDriver: Race driver needs knowledge!  (id=400)
+SIM_ABORT	unknown	0s	3725.18m
+TIME	3.774
+SIM_START	unknown	2018-12-19 16:02:42
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.329
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	65.755
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	86.334
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	106.175
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	125.256
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	143.627
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	161.356
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	178.497
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	195.106
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	211.230
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	226.907
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	242.179
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	257.051
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	271.539
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	1628.744
+SIM_END		unknown	1628.73s	18934.5m
+SIM_START	unknown	2018-12-19 16:05:40
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.585
+		Lap   1: t=  68.584s	Dist=1864.0552m	sRoad=0.4253m
+TIME	135.651
+		Lap   2: t=  67.066s	Dist=1860.1905m	sRoad=0.4165m
+SIM_END		unknown	135.651s	3724.27m
+TIME	139.664
+SIM_START	unknown	2018-12-19 16:06:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	135.462
+SIM_END		unknown	135.453s	3724.37m
+SIM_START	unknown	2018-12-19 16:06:43
+TIME	0.000
+SIMULATE	unknown
+
+TIME	135.462
+SIM_END		unknown	135.453s	3724.37m
+TIME	142.400
+SIM_START	unknown	2018-12-19 16:08:00
+TIME	0.000
+SIMULATE	unknown
+
+TIME	136.004
+SIM_END		unknown	135.995s	3734.48m
+SIM_START	unknown	2018-12-19 16:08:28
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.094
+ERROR		Vehicle leaves road at about x=-15.0965, y=-395.026 TireNo=1
+SIM_ABORT	unknown	28.094s	870.872m
+TIME	30.366
+SIM_START	unknown	2018-12-19 16:08:53
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.503
+ERROR		Vehicle leaves road at about x=-14.8385, y=-410.122 TireNo=1
+SIM_ABORT	unknown	28.503s	883.518m
+SIM_START	unknown	2018-12-19 16:09:15
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.508
+ERROR		Vehicle leaves road at about x=-14.8181, y=-410.273 TireNo=1
+SIM_ABORT	unknown	28.508s	883.663m
+TIME	31.670
+SIM_START	unknown	2018-12-19 16:09:49
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.365
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	65.794
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	86.374
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	106.216
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	125.297
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	143.668
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	161.396
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	178.537
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	195.146
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	211.270
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	226.945
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	242.216
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	257.087
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	271.573
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	1628.778
+SIM_END		unknown	1628.77s	18928.6m
+TIME	1641.611
+SIM_START	unknown	2018-12-19 16:13:44
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.508
+ERROR		Vehicle leaves road at about x=-14.8181, y=-410.273 TireNo=1
+SIM_ABORT	unknown	28.508s	883.663m
+TIME	31.541
+SIM_START	unknown	2018-12-19 16:14:16
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.534
+		Lap   1: t=  68.533s	Dist=1864.0654m	sRoad=0.4083m
+TIME	135.562
+		Lap   2: t=  67.028s	Dist=1860.2395m	sRoad=0.4208m
+SIM_END		unknown	135.562s	3724.33m
+TIME	138.078
+SIM_START	unknown	2018-12-19 16:14:49
+TIME	0.000
+SIMULATE	unknown
+
+TIME	135.571
+SIM_END		unknown	135.562s	3724.33m
+SIM_START	unknown	2018-12-19 16:15:10
+TIME	0.000
+SIMULATE	unknown
+
+TIME	136.700
+SIM_END		unknown	136.691s	3755.47m
+TIME	142.923
+SIM_START	unknown	2018-12-19 16:16:20
+TIME	0.000
+SIMULATE	unknown
+
+TIME	135.553
+SIM_END		unknown	135.544s	3723.84m
+TIME	137.664
+SIM_START	unknown	2018-12-19 16:16:49
+TIME	0.012
+ERROR		IPGDriver: Race driver needs knowledge!  (id=400)
+SIM_ABORT	unknown	0s	3723.84m
+SIM_START	unknown	2018-12-19 16:17:08
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.329
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	65.755
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	86.334
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	106.175
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	125.256
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	143.627
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	161.356
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	178.497
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	195.106
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	211.230
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	226.907
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	242.179
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	257.051
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	271.539
+WARNING		IPGDriver: Problems with generating speed profile. Destination speed is too small (2.0 km/h) -> set to 20 km/h (id=200)
+TIME	1628.744
+SIM_END		unknown	1628.73s	18934.5m
+TIME	1630.955
+SIM_START	unknown	2018-12-19 16:19:17
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.534
+		Lap   1: t=  68.533s	Dist=1864.0654m	sRoad=0.4083m
+TIME	135.562
+		Lap   2: t=  67.028s	Dist=1860.2395m	sRoad=0.4208m
+SIM_END		unknown	135.562s	3724.33m
+TIME	147.719
+SIM_START	unknown	2018-12-19 16:21:27
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.534
+		Lap   1: t=  68.533s	Dist=1864.0654m	sRoad=0.4083m
+TIME	135.562
+		Lap   2: t=  67.028s	Dist=1860.2395m	sRoad=0.4208m
+SIM_END		unknown	135.562s	3724.33m
+TIME	139.589
+SIM_START	unknown	2018-12-19 16:22:15
+TIME	0.000
+SIMULATE	unknown
+
+TIME	31.108
+ERROR		Vehicle leaves road at about x=-7.89741, y=-428.47 TireNo=1
+SIM_ABORT	unknown	31.108s	900.318m
+SIM_START	unknown	2018-12-19 16:22:27
+TIME	0.000
+SIMULATE	unknown
+
+TIME	31.108
+ERROR		Vehicle leaves road at about x=-7.89741, y=-428.47 TireNo=1
+SIM_ABORT	unknown	31.108s	900.318m
+SIM_START	unknown	2018-12-19 16:23:15
+TIME	0.000
+SIMULATE	unknown
+
+TIME	117.678
+SIM_END		unknown	117.674s	3385.01m
+SIM_START	unknown	2018-12-19 16:25:29
+TIME	0.000
+SIMULATE	unknown
+
+TIME	55.348
+SIM_END		unknown	55.344s	1569.36m
+TIME	63.888
+SIM_START	unknown	2018-12-19 16:27:51
+TIME	0.000
+SIMULATE	unknown
+
+TIME	159.467
+SIM_END		unknown	159.458s	3725.15m
+SIM_START	unknown	2018-12-19 16:28:52
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.604
+		Lap   1: t=  68.603s	Dist=1864.0375m	sRoad=0.4125m
+TIME	135.690
+		Lap   2: t=  67.086s	Dist=1860.2008m	sRoad=0.4192m
+SIM_END		unknown	135.69s	3724.27m
+TIME	137.754
+SIM_START	unknown	2018-12-19 16:29:20
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.604
+		Lap   1: t=  68.603s	Dist=1864.0375m	sRoad=0.4125m
+TIME	135.690
+		Lap   2: t=  67.086s	Dist=1860.2008m	sRoad=0.4192m
+SIM_END		unknown	135.69s	3724.27m
+TIME	245.093
+SIM_START	unknown	2018-12-19 16:49:51
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.604
+		Lap   1: t=  68.603s	Dist=1864.0375m	sRoad=0.4125m
+TIME	135.690
+		Lap   2: t=  67.086s	Dist=1860.2008m	sRoad=0.4192m
+SIM_END		unknown	135.69s	3724.27m
+TIME	283.979
+SIM_START	unknown	2018-12-19 17:16:51
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.604
+		Lap   1: t=  68.603s	Dist=1864.0375m	sRoad=0.4125m
+TIME	135.690
+		Lap   2: t=  67.086s	Dist=1860.2008m	sRoad=0.4192m
+SIM_END		unknown	135.69s	3724.27m
+TIME	168.417
+SIM_START	unknown	2018-12-19 17:24:35
+TIME	0.017
+ERROR		Man 0: Velocity profile not configured
+ERROR		DrivMan: No (or invalid) maneuver definition
+SIM_ABORT	unknown	0s	3724.27m
+TIME	2.765
+SIM_START	unknown	2018-12-19 17:25:03
+TIME	0.000
+SIMULATE	unknown
+
+TIME	14.273
+SIM_END		unknown	14.27s	0.0105114m
+TIME	16.378
+SIM_START	unknown	2018-12-19 17:25:40
+TIME	0.000
+SIMULATE	unknown
+
+WARNING		IPGDriver: Problems for driver: I'm stopping my activities (time = 0.338000, ErrInd = 102). (id=200)
+TIME	11.008
+SIM_END		unknown	11.005s	15.8991m
+TIME	14.259
+SIM_START	unknown	2018-12-19 17:26:25
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.548
+ERROR		Vehicle leaves road at about x=-14.8174, y=-410.254 TireNo=1
+SIM_ABORT	unknown	28.548s	883.644m
+SIM_START	unknown	2018-12-19 17:27:14
+TIME	0.000
+SIMULATE	unknown
+
+TIME	27.860
+ERROR		Vehicle leaves road at about x=-11.3615, y=-381.586 TireNo=1
+SIM_ABORT	unknown	27.86s	862.034m
+TIME	0.001
+TIME	30.035
+SIM_START	unknown	2018-12-19 17:28:05
+TIME	0.000
+SIMULATE	unknown
+
+TIME	20.198
+SIM_END		unknown	20.195s	298.002m
+TIME	25.347
+SIM_START	unknown	2018-12-19 17:29:18
+TIME	0.000
+SIMULATE	unknown
+
+TIME	64.520
+SIM_END		unknown	64.517s	1417.34m
+SIM_START	unknown	2018-12-19 17:30:35
+TIME	0.000
+SIMULATE	unknown
+
+TIME	44.820
+SIM_END		unknown	44.817s	1203.39m
+TIME	50.189
+SIM_START	unknown	2018-12-19 17:32:15
+TIME	0.000
+SIMULATE	unknown
+
+TIME	68.452
+		Lap   1: t=  68.451s	Dist=1859.8929m	sRoad=0.4268m
+TIME	135.386
+		Lap   2: t=  66.934s	Dist=1856.0557m	sRoad=0.4149m
+SIM_END		unknown	135.386s	3715.98m
+TIME	141.797
+SIM_START	unknown	2018-12-19 17:33:27
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.573
+ERROR		Vehicle leaves road at about x=-13.9134, y=-414.451 TireNo=1
+SIM_ABORT	unknown	28.573s	884.996m
+SIM_START	unknown	2018-12-19 17:33:36
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.573
+ERROR		Vehicle leaves road at about x=-13.9134, y=-414.451 TireNo=1
+SIM_ABORT	unknown	28.573s	884.996m
+TIME	30.756
+SIM_START	unknown	2018-12-19 17:34:13
+TIME	0.000
+SIMULATE	unknown
+
+TIME	28.175
+ERROR		Vehicle leaves road at about x=-15.1221, y=-395.215 TireNo=1
+SIM_ABORT	unknown	28.175s	872.561m
+TIME	41.017
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 17:36:37
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	16.994
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	16.991s	357.584m
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 17:37:00
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	403.181
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+SIM_ABORT	Examples_FS/Hockenheim500_GrandPrix	403.181s	9835.27m
+TIME	405.384
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 17:38:06
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	128.071
+		Lap   1: t= 128.070s	Dist=2556.6820m	sRoad=0.4309m
+TIME	253.048
+		Lap   2: t= 124.977s	Dist=2558.5764m	sRoad=0.4202m
+TIME	378.024
+		Lap   3: t= 124.976s	Dist=2558.5714m	sRoad=0.4044m
+TIME	416.021
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	416.012s	8481.46m
+TIME	419.779
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 17:39:10
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	96.653
+		Lap   1: t=  96.652s	Dist=1864.7445m	sRoad=0.4075m
+TIME	190.406
+		Lap   2: t=  93.753s	Dist=1860.9075m	sRoad=0.4134m
+TIME	284.159
+		Lap   3: t=  93.753s	Dist=1860.9138m	sRoad=0.4256m
+TIME	377.915
+		Lap   4: t=  93.756s	Dist=1860.9075m	sRoad=0.4182m
+TIME	471.672
+		Lap   5: t=  93.757s	Dist=1860.9162m	sRoad=0.4196m
+TIME	499.606
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	499.597s	9951.97m
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 17:39:51
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	460.619
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+SIM_ABORT	Examples_FS/Hockenheim500_GrandPrix	460.619s	10892m
+TIME	470.668
+SHUTDOWN	CarMaker quick shutdown initiated
+

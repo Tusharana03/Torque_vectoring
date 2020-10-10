@@ -1,0 +1,21 @@
+APPLICATION	CarMaker 7.0.3 - Car_Generic #420 (win64-7.0.3)
+COMPILED	fh@obelix.ipg 2018-10-05 14:03:44
+FIRST_INIT	(internal default used)	2018-12-19 13:46:37
+TIME	0.000
+SIM_END			0s	0m
+IDLE	13:46:37
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-19 13:46:37
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	10.767
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	10.764s	253.359m
+SIM_START	Examples_FS/FSG_SkidPad	2018-12-19 13:46:55
+TIME	0.000
+SIMULATE	Examples_FS/FSG_SkidPad
+
+TIME	44.861
+SIM_END		Examples_FS/FSG_SkidPad	44.858s	259.72m
+TIME	271.704
+SHUTDOWN	CarMaker quick shutdown initiated
+

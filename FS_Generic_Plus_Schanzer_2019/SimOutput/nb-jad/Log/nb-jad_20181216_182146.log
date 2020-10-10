@@ -1,0 +1,51 @@
+APPLICATION	CarMaker 7.0.3 - Car_Generic #420 (win64-7.0.3)
+COMPILED	fh@obelix.ipg 2018-10-05 14:03:44
+FIRST_INIT	(internal default used)	2018-12-16 18:21:46
+TIME	0.000
+SIM_END			0s	0m
+IDLE	18:21:47
+SIM_START	FCM_Tutorial/Tutorial_FS_Example_6_0	2018-12-16 18:21:49
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	FCM_Tutorial/Tutorial_FS_Example_6_0
+
+TIME	3.529
+SIM_END		FCM_Tutorial/Tutorial_FS_Example_6_0	3.524s	2.79687m
+SIM_START	FCM_Tutorial/Tutorial_FS_Example_6_0	2018-12-16 18:22:00
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	FCM_Tutorial/Tutorial_FS_Example_6_0
+
+TIME	55.370
+SIM_END		FCM_Tutorial/Tutorial_FS_Example_6_0	55.367s	393.478m
+SIM_START	FCM_Tutorial/Tutorial_FS_Example_6_0	2018-12-16 18:22:39
+TIME	0.022
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	FCM_Tutorial/Tutorial_FS_Example_6_0
+
+TIME	36.965
+SIM_END		FCM_Tutorial/Tutorial_FS_Example_6_0	36.961s	81.0228m
+TIME	53.661
+SIM_START	FCM_Tutorial/DVA_RearAxleSteering	2018-12-16 18:25:40
+TIME	0.022
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	FCM_Tutorial/DVA_RearAxleSteering
+
+TIME	111.527
+SIM_END		FCM_Tutorial/DVA_RearAxleSteering	111.524s	1153.93m
+TIME	135.257
+SIM_START	FCM_Tutorial/DVA_TiltTest	2018-12-16 18:30:06
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	FCM_Tutorial/DVA_TiltTest
+
+TIME	17.154
+SIM_END		FCM_Tutorial/DVA_TiltTest	17.151s	0.00129319m
+TIME	48.468
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,1276 @@
+APPLICATION	CarMaker 7.0.3 - Car_Generic #420 (win64-7.0.3)
+COMPILED	fh@obelix.ipg 2018-10-05 14:03:44
+FIRST_INIT	(internal default used)	2018-12-16 16:32:17
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:32:17
+SIM_START	Examples_FS/FS_Braking	2018-12-16 16:32:20
+TIME	0.020
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	41.690
+SIM_END		Examples_FS/FS_Braking	41.687s	421.732m
+TIME	45.976
+SIM_START	Examples_FS/FS_Braking	2018-12-16 16:33:23
+TIME	0.015
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	3.461
+SIM_END		Examples_FS/FS_Braking	3.457s	7.43999m
+TIME	74.079
+SIM_START	Examples_FS/FS_Braking	2018-12-16 16:45:24
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	11.333
+SIM_END		Examples_FS/FS_Braking	11.33s	137.34m
+TIME	62.950
+SIM_START	Examples_FS/FS_Braking	2018-12-16 16:54:05
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	6.647
+SIM_END		Examples_FS/FS_Braking	6.644s	56.2634m
+SIM_START	Examples_FS/FS_Braking	2018-12-16 16:54:24
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	3.891
+SIM_END		Examples_FS/FS_Braking	3.888s	12.4143m
+TIME	7.832
+SIM_START	Examples_FS/FS_Braking	2018-12-16 16:55:08
+TIME	0.015
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	41.692
+SIM_END		Examples_FS/FS_Braking	41.689s	421.844m
+TIME	84.615
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:03:01
+TIME	0.004
+WARNING		Vehicle Outer Skin: The x-position of the front upper point is smaller than the front axle
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	7.515
+SIM_END		Examples_FS/FS_Braking	7.512s	69.7902m
+TIME	18.984
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:05:04
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	7.411
+SIM_END		Examples_FS/FS_Braking	7.408s	57.724m
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:05:20
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	7.899
+SIM_END		Examples_FS/FS_Braking	7.896s	78.6129m
+TIME	12.070
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:06:11
+TIME	12.070
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	2.426
+SIM_END		Examples_FS/FS_Braking	2.423s	0.78872m
+TIME	5.068
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:06:41
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	4.278
+SIM_END		Examples_FS/FS_Braking	4.275s	17.955m
+TIME	22.046
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:09:44
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	7.672
+SIM_END		Examples_FS/FS_Braking	7.669s	74.7401m
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:10:11
+TIME	0.023
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	3.178
+SIM_END		Examples_FS/FS_Braking	3.175s	4.84413m
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:10:24
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	5.241
+SIM_END		Examples_FS/FS_Braking	5.238s	33.5948m
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:10:40
+TIME	0.019
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	5.544
+SIM_END		Examples_FS/FS_Braking	5.541s	38.6608m
+TIME	14.414
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:12:15
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	41.692
+SIM_END		Examples_FS/FS_Braking	41.689s	421.844m
+TIME	44.327
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:13:06
+TIME	0.015
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	23.389
+SIM_END		Examples_FS/FS_Braking	23.385s	343.508m
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:13:16
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	9.410
+SIM_END		Examples_FS/FS_Braking	9.407s	104.426m
+SIM_START	Examples_FS/FS_Braking	2018-12-16 17:13:36
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Braking
+
+TIME	31.690
+SIM_END		Examples_FS/FS_Braking	31.687s	421.844m
+TIME	0.001
+TIME	70.680
+SIM_START	Examples_FS/FS_Acceleration_6.0	2018-12-16 17:20:31
+TIME	0.019
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_6.0
+
+TIME	15.355
+SIM_END		Examples_FS/FS_Acceleration_6.0	15.352s	175.047m
+TIME	0.001
+SIM_START	Examples_FS/FS_Acceleration_6.0	2018-12-16 17:26:15
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_6.0
+
+TIME	10.014
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.014 seconds
+		Acceleration time = 10.015 seconds
+		Acceleration time = 10.016 seconds
+		Acceleration time = 10.017 seconds
+		Acceleration time = 10.018 seconds
+		Acceleration time = 10.019 seconds
+		Acceleration time = 10.020 seconds
+		Acceleration time = 10.021 seconds
+		Acceleration time = 10.022 seconds
+		Acceleration time = 10.023 seconds
+		Acceleration time = 10.024 seconds
+		Acceleration time = 10.025 seconds
+		Acceleration time = 10.026 seconds
+		Acceleration time = 10.027 seconds
+		Acceleration time = 10.028 seconds
+		Acceleration time = 10.029 seconds
+		Acceleration time = 10.030 seconds
+		Acceleration time = 10.031 seconds
+		Acceleration time = 10.032 seconds
+		Acceleration time = 10.033 seconds
+		Acceleration time = 10.034 seconds
+		Acceleration time = 10.035 seconds
+		Acceleration time = 10.036 seconds
+		Acceleration time = 10.037 seconds
+		Acceleration time = 10.038 seconds
+		Acceleration time = 10.039 seconds
+		Acceleration time = 10.040 seconds
+		Acceleration time = 10.041 seconds
+		Acceleration time = 10.042 seconds
+		Acceleration time = 10.043 seconds
+		Acceleration time = 10.044 seconds
+		Acceleration time = 10.045 seconds
+		Acceleration time = 10.046 seconds
+		Acceleration time = 10.047 seconds
+		Acceleration time = 10.048 seconds
+		Acceleration time = 10.049 seconds
+		Acceleration time = 10.050 seconds
+		Acceleration time = 10.051 seconds
+		Acceleration time = 10.052 seconds
+		Acceleration time = 10.053 seconds
+		Acceleration time = 10.054 seconds
+		Acceleration time = 10.055 seconds
+		Acceleration time = 10.056 seconds
+		Acceleration time = 10.057 seconds
+		Acceleration time = 10.058 seconds
+		Acceleration time = 10.059 seconds
+		Acceleration time = 10.060 seconds
+		Acceleration time = 10.061 seconds
+		Acceleration time = 10.062 seconds
+		Acceleration time = 10.063 seconds
+		Acceleration time = 10.064 seconds
+		Acceleration time = 10.065 seconds
+		Acceleration time = 10.066 seconds
+		Acceleration time = 10.067 seconds
+		Acceleration time = 10.068 seconds
+		Acceleration time = 10.069 seconds
+		Acceleration time = 10.070 seconds
+		Acceleration time = 10.071 seconds
+		Acceleration time = 10.072 seconds
+		Acceleration time = 10.073 seconds
+		Acceleration time = 10.074 seconds
+		Acceleration time = 10.075 seconds
+		Acceleration time = 10.076 seconds
+		Acceleration time = 10.077 seconds
+		Acceleration time = 10.078 seconds
+		Acceleration time = 10.079 seconds
+		Acceleration time = 10.080 seconds
+		Acceleration time = 10.081 seconds
+		Acceleration time = 10.082 seconds
+		Acceleration time = 10.083 seconds
+		Acceleration time = 10.084 seconds
+		Acceleration time = 10.085 seconds
+		Acceleration time = 10.086 seconds
+		Acceleration time = 10.087 seconds
+		Acceleration time = 10.088 seconds
+		Acceleration time = 10.089 seconds
+		Acceleration time = 10.090 seconds
+		Acceleration time = 10.091 seconds
+		Acceleration time = 10.092 seconds
+		Acceleration time = 10.093 seconds
+		Acceleration time = 10.094 seconds
+		Acceleration time = 10.095 seconds
+		Acceleration time = 10.096 seconds
+		Acceleration time = 10.097 seconds
+		Acceleration time = 10.098 seconds
+		Acceleration time = 10.099 seconds
+		Acceleration time = 10.100 seconds
+		Acceleration time = 10.101 seconds
+		Acceleration time = 10.102 seconds
+		Acceleration time = 10.103 seconds
+		Acceleration time = 10.104 seconds
+		Acceleration time = 10.105 seconds
+		Acceleration time = 10.106 seconds
+		Acceleration time = 10.107 seconds
+		Acceleration time = 10.108 seconds
+		Acceleration time = 10.109 seconds
+		Acceleration time = 10.110 seconds
+		Acceleration time = 10.111 seconds
+		Acceleration time = 10.112 seconds
+		Acceleration time = 10.113 seconds
+		Acceleration time = 10.114 seconds
+		Acceleration time = 10.115 seconds
+		Acceleration time = 10.116 seconds
+		Acceleration time = 10.117 seconds
+		Acceleration time = 10.118 seconds
+		Acceleration time = 10.119 seconds
+		Acceleration time = 10.120 seconds
+		Acceleration time = 10.121 seconds
+		Acceleration time = 10.122 seconds
+		Acceleration time = 10.123 seconds
+		Acceleration time = 10.124 seconds
+		Acceleration time = 10.125 seconds
+		Acceleration time = 10.126 seconds
+		Acceleration time = 10.127 seconds
+		Acceleration time = 10.128 seconds
+		Acceleration time = 10.129 seconds
+		Acceleration time = 10.130 seconds
+		Acceleration time = 10.131 seconds
+		Acceleration time = 10.132 seconds
+		Acceleration time = 10.133 seconds
+		Acceleration time = 10.134 seconds
+		Acceleration time = 10.135 seconds
+		Acceleration time = 10.136 seconds
+		Acceleration time = 10.137 seconds
+		Acceleration time = 10.138 seconds
+		Acceleration time = 10.139 seconds
+		Acceleration time = 10.140 seconds
+		Acceleration time = 10.141 seconds
+		Acceleration time = 10.142 seconds
+		Acceleration time = 10.143 seconds
+		Acceleration time = 10.144 seconds
+		Acceleration time = 10.145 seconds
+		Acceleration time = 10.146 seconds
+		Acceleration time = 10.147 seconds
+		Acceleration time = 10.148 seconds
+		Acceleration time = 10.149 seconds
+		Acceleration time = 10.150 seconds
+		Acceleration time = 10.151 seconds
+		Acceleration time = 10.152 seconds
+		Acceleration time = 10.153 seconds
+		Acceleration time = 10.154 seconds
+		Acceleration time = 10.155 seconds
+		Acceleration time = 10.156 seconds
+		Acceleration time = 10.157 seconds
+		Acceleration time = 10.158 seconds
+		Acceleration time = 10.159 seconds
+		Acceleration time = 10.160 seconds
+		Acceleration time = 10.161 seconds
+		Acceleration time = 10.162 seconds
+		Acceleration time = 10.163 seconds
+		Acceleration time = 10.164 seconds
+		Acceleration time = 10.165 seconds
+		Acceleration time = 10.166 seconds
+		Acceleration time = 10.167 seconds
+		Acceleration time = 10.168 seconds
+		Acceleration time = 10.169 seconds
+		Acceleration time = 10.170 seconds
+		Acceleration time = 10.171 seconds
+		Acceleration time = 10.172 seconds
+		Acceleration time = 10.173 seconds
+		Acceleration time = 10.174 seconds
+		Acceleration time = 10.175 seconds
+		Acceleration time = 10.176 seconds
+		Acceleration time = 10.177 seconds
+		Acceleration time = 10.178 seconds
+		Acceleration time = 10.179 seconds
+		Acceleration time = 10.180 seconds
+		Acceleration time = 10.181 seconds
+		Acceleration time = 10.182 seconds
+		Acceleration time = 10.183 seconds
+		Acceleration time = 10.184 seconds
+		Acceleration time = 10.185 seconds
+		Acceleration time = 10.186 seconds
+		Acceleration time = 10.187 seconds
+		Acceleration time = 10.188 seconds
+		Acceleration time = 10.189 seconds
+		Acceleration time = 10.190 seconds
+		Acceleration time = 10.191 seconds
+		Acceleration time = 10.192 seconds
+		Acceleration time = 10.193 seconds
+		Acceleration time = 10.194 seconds
+		Acceleration time = 10.195 seconds
+		Acceleration time = 10.196 seconds
+		Acceleration time = 10.197 seconds
+		Acceleration time = 10.198 seconds
+		Acceleration time = 10.199 seconds
+		Acceleration time = 10.200 seconds
+		Acceleration time = 10.201 seconds
+		Acceleration time = 10.202 seconds
+		Acceleration time = 10.203 seconds
+		Acceleration time = 10.204 seconds
+		Acceleration time = 10.205 seconds
+		Acceleration time = 10.206 seconds
+		Acceleration time = 10.207 seconds
+		Acceleration time = 10.208 seconds
+		Acceleration time = 10.209 seconds
+		Acceleration time = 10.210 seconds
+		Acceleration time = 10.211 seconds
+		Acceleration time = 10.212 seconds
+		Acceleration time = 10.213 seconds
+		Acceleration time = 10.214 seconds
+		Acceleration time = 10.215 seconds
+		Acceleration time = 10.216 seconds
+		Acceleration time = 10.217 seconds
+		Acceleration time = 10.218 seconds
+		Acceleration time = 10.219 seconds
+		Acceleration time = 10.220 seconds
+		Acceleration time = 10.221 seconds
+		Acceleration time = 10.222 seconds
+		Acceleration time = 10.223 seconds
+		Acceleration time = 10.224 seconds
+		Acceleration time = 10.225 seconds
+		Acceleration time = 10.226 seconds
+		Acceleration time = 10.227 seconds
+		Acceleration time = 10.228 seconds
+		Acceleration time = 10.229 seconds
+		Acceleration time = 10.230 seconds
+		Acceleration time = 10.231 seconds
+		Acceleration time = 10.232 seconds
+		Acceleration time = 10.233 seconds
+		Acceleration time = 10.234 seconds
+		Acceleration time = 10.235 seconds
+		Acceleration time = 10.236 seconds
+		Acceleration time = 10.237 seconds
+		Acceleration time = 10.238 seconds
+		Acceleration time = 10.239 seconds
+		Acceleration time = 10.240 seconds
+		Acceleration time = 10.241 seconds
+		Acceleration time = 10.242 seconds
+		Acceleration time = 10.243 seconds
+		Acceleration time = 10.244 seconds
+		Acceleration time = 10.245 seconds
+		Acceleration time = 10.246 seconds
+		Acceleration time = 10.247 seconds
+		Acceleration time = 10.248 seconds
+		Acceleration time = 10.249 seconds
+		Acceleration time = 10.250 seconds
+		Acceleration time = 10.251 seconds
+		Acceleration time = 10.252 seconds
+		Acceleration time = 10.253 seconds
+		Acceleration time = 10.254 seconds
+		Acceleration time = 10.255 seconds
+		Acceleration time = 10.256 seconds
+		Acceleration time = 10.257 seconds
+		Acceleration time = 10.258 seconds
+		Acceleration time = 10.259 seconds
+		Acceleration time = 10.260 seconds
+		Acceleration time = 10.261 seconds
+		Acceleration time = 10.262 seconds
+		Acceleration time = 10.263 seconds
+		Acceleration time = 10.264 seconds
+		Acceleration time = 10.265 seconds
+		Acceleration time = 10.266 seconds
+		Acceleration time = 10.267 seconds
+		Acceleration time = 10.268 seconds
+		Acceleration time = 10.269 seconds
+		Acceleration time = 10.270 seconds
+		Acceleration time = 10.271 seconds
+		Acceleration time = 10.272 seconds
+		Acceleration time = 10.273 seconds
+		Acceleration time = 10.274 seconds
+		Acceleration time = 10.275 seconds
+		Acceleration time = 10.276 seconds
+		Acceleration time = 10.277 seconds
+		Acceleration time = 10.278 seconds
+		Acceleration time = 10.279 seconds
+		Acceleration time = 10.280 seconds
+		Acceleration time = 10.281 seconds
+		Acceleration time = 10.282 seconds
+		Acceleration time = 10.283 seconds
+		Acceleration time = 10.284 seconds
+		Acceleration time = 10.285 seconds
+		Acceleration time = 10.286 seconds
+		Acceleration time = 10.287 seconds
+		Acceleration time = 10.288 seconds
+		Acceleration time = 10.289 seconds
+		Acceleration time = 10.290 seconds
+		Acceleration time = 10.291 seconds
+		Acceleration time = 10.292 seconds
+		Acceleration time = 10.293 seconds
+		Acceleration time = 10.294 seconds
+		Acceleration time = 10.295 seconds
+		Acceleration time = 10.296 seconds
+		Acceleration time = 10.297 seconds
+		Acceleration time = 10.298 seconds
+		Acceleration time = 10.299 seconds
+		Acceleration time = 10.300 seconds
+		Acceleration time = 10.301 seconds
+		Acceleration time = 10.302 seconds
+		Acceleration time = 10.303 seconds
+		Acceleration time = 10.304 seconds
+		Acceleration time = 10.305 seconds
+		Acceleration time = 10.306 seconds
+		Acceleration time = 10.307 seconds
+		Acceleration time = 10.308 seconds
+		Acceleration time = 10.309 seconds
+		Acceleration time = 10.310 seconds
+		Acceleration time = 10.311 seconds
+		Acceleration time = 10.312 seconds
+		Acceleration time = 10.313 seconds
+		Acceleration time = 10.314 seconds
+		Acceleration time = 10.315 seconds
+		Acceleration time = 10.316 seconds
+		Acceleration time = 10.317 seconds
+		Acceleration time = 10.318 seconds
+		Acceleration time = 10.319 seconds
+		Acceleration time = 10.320 seconds
+		Acceleration time = 10.321 seconds
+		Acceleration time = 10.322 seconds
+		Acceleration time = 10.323 seconds
+		Acceleration time = 10.324 seconds
+		Acceleration time = 10.325 seconds
+		Acceleration time = 10.326 seconds
+		Acceleration time = 10.327 seconds
+		Acceleration time = 10.328 seconds
+		Acceleration time = 10.329 seconds
+		Acceleration time = 10.330 seconds
+		Acceleration time = 10.331 seconds
+		Acceleration time = 10.332 seconds
+		Acceleration time = 10.333 seconds
+		Acceleration time = 10.334 seconds
+		Acceleration time = 10.335 seconds
+		Acceleration time = 10.336 seconds
+		Acceleration time = 10.337 seconds
+		Acceleration time = 10.338 seconds
+		Acceleration time = 10.339 seconds
+		Acceleration time = 10.340 seconds
+		Acceleration time = 10.341 seconds
+		Acceleration time = 10.342 seconds
+		Acceleration time = 10.343 seconds
+		Acceleration time = 10.344 seconds
+		Acceleration time = 10.345 seconds
+		Acceleration time = 10.346 seconds
+		Acceleration time = 10.347 seconds
+		Acceleration time = 10.348 seconds
+		Acceleration time = 10.349 seconds
+		Acceleration time = 10.350 seconds
+		Acceleration time = 10.351 seconds
+		Acceleration time = 10.352 seconds
+		Acceleration time = 10.353 seconds
+		Acceleration time = 10.354 seconds
+		Acceleration time = 10.355 seconds
+		Acceleration time = 10.356 seconds
+		Acceleration time = 10.357 seconds
+		Acceleration time = 10.358 seconds
+		Acceleration time = 10.359 seconds
+		Acceleration time = 10.360 seconds
+		Acceleration time = 10.361 seconds
+		Acceleration time = 10.362 seconds
+		Acceleration time = 10.363 seconds
+		Acceleration time = 10.364 seconds
+		Acceleration time = 10.365 seconds
+		Acceleration time = 10.366 seconds
+		Acceleration time = 10.367 seconds
+		Acceleration time = 10.368 seconds
+		Acceleration time = 10.369 seconds
+		Acceleration time = 10.370 seconds
+		Acceleration time = 10.371 seconds
+		Acceleration time = 10.372 seconds
+		Acceleration time = 10.373 seconds
+		Acceleration time = 10.374 seconds
+		Acceleration time = 10.375 seconds
+		Acceleration time = 10.376 seconds
+		Acceleration time = 10.377 seconds
+		Acceleration time = 10.378 seconds
+		Acceleration time = 10.379 seconds
+		Acceleration time = 10.380 seconds
+		Acceleration time = 10.381 seconds
+		Acceleration time = 10.382 seconds
+		Acceleration time = 10.383 seconds
+		Acceleration time = 10.384 seconds
+		Acceleration time = 10.385 seconds
+		Acceleration time = 10.386 seconds
+		Acceleration time = 10.387 seconds
+		Acceleration time = 10.388 seconds
+		Acceleration time = 10.389 seconds
+		Acceleration time = 10.390 seconds
+		Acceleration time = 10.391 seconds
+		Acceleration time = 10.392 seconds
+		Acceleration time = 10.393 seconds
+		Acceleration time = 10.394 seconds
+		Acceleration time = 10.395 seconds
+		Acceleration time = 10.396 seconds
+		Acceleration time = 10.397 seconds
+		Acceleration time = 10.398 seconds
+		Acceleration time = 10.399 seconds
+		Acceleration time = 10.400 seconds
+		Acceleration time = 10.401 seconds
+		Acceleration time = 10.402 seconds
+		Acceleration time = 10.403 seconds
+		Acceleration time = 10.404 seconds
+		Acceleration time = 10.405 seconds
+		Acceleration time = 10.406 seconds
+		Acceleration time = 10.407 seconds
+		Acceleration time = 10.408 seconds
+		Acceleration time = 10.409 seconds
+		Acceleration time = 10.410 seconds
+		Acceleration time = 10.411 seconds
+		Acceleration time = 10.412 seconds
+		Acceleration time = 10.413 seconds
+		Acceleration time = 10.414 seconds
+		Acceleration time = 10.415 seconds
+		Acceleration time = 10.416 seconds
+		Acceleration time = 10.417 seconds
+		Acceleration time = 10.418 seconds
+		Acceleration time = 10.419 seconds
+		Acceleration time = 10.420 seconds
+		Acceleration time = 10.421 seconds
+		Acceleration time = 10.422 seconds
+		Acceleration time = 10.423 seconds
+		Acceleration time = 10.424 seconds
+		Acceleration time = 10.425 seconds
+		Acceleration time = 10.426 seconds
+		Acceleration time = 10.427 seconds
+		Acceleration time = 10.428 seconds
+		Acceleration time = 10.429 seconds
+		Acceleration time = 10.430 seconds
+		Acceleration time = 10.431 seconds
+		Acceleration time = 10.432 seconds
+		Acceleration time = 10.433 seconds
+		Acceleration time = 10.434 seconds
+		Acceleration time = 10.435 seconds
+		Acceleration time = 10.436 seconds
+		Acceleration time = 10.437 seconds
+		Acceleration time = 10.438 seconds
+		Acceleration time = 10.439 seconds
+		Acceleration time = 10.440 seconds
+		Acceleration time = 10.441 seconds
+		Acceleration time = 10.442 seconds
+		Acceleration time = 10.443 seconds
+		Acceleration time = 10.444 seconds
+		Acceleration time = 10.445 seconds
+		Acceleration time = 10.446 seconds
+		Acceleration time = 10.447 seconds
+		Acceleration time = 10.448 seconds
+		Acceleration time = 10.449 seconds
+		Acceleration time = 10.450 seconds
+		Acceleration time = 10.451 seconds
+		Acceleration time = 10.452 seconds
+		Acceleration time = 10.453 seconds
+SIM_END		Examples_FS/FS_Acceleration_6.0	10.454s	80.0205m
+TIME	35.181
+SIM_START	Examples_FS/FS_Acceleration_6.0	2018-12-16 17:30:29
+TIME	0.015
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+ERROR		Man 0, cmd line 3: syntax error
+	first ? Qu:: Accel_Time (<<)  =0
+ERROR		DrivMan: No (or invalid) maneuver definition
+SIM_ABORT	Examples_FS/FS_Acceleration_6.0	0s	80.0205m
+SIM_START	Examples_FS/FS_Acceleration_6.0	2018-12-16 17:30:37
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_6.0
+
+TIME	10.014
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+		Acceleration time = 10.013 seconds
+SIM_END		Examples_FS/FS_Acceleration_6.0	10.454s	80.0205m
+TIME	13.829
+SIM_START	Examples_FS/FS_Acceleration_6.0	2018-12-16 17:31:17
+TIME	0.015
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_6.0
+
+TIME	10.014
+		Acceleration time = 10.013 seconds
+SIM_END		Examples_FS/FS_Acceleration_6.0	10.454s	80.0205m
+SIM_START	Examples_FS/FS_Acceleration_6.0	2018-12-16 17:31:36
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_6.0
+
+TIME	10.014
+		Acceleration time = 10.013 seconds
+SIM_END		Examples_FS/FS_Acceleration_6.0	10.454s	80.0205m
+TIME	19.114
+SIM_START	Examples_FS/FS_Acceleration_6.0	2018-12-16 17:33:09
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_6.0
+
+TIME	6.964
+		Acceleration time = 6.963 seconds
+SIM_END		Examples_FS/FS_Acceleration_6.0	7.28s	80.0316m
+TIME	27.202
+SIM_START	Examples_FS/FS_Acceleration_noClutch	2018-12-16 17:36:37
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_noClutch
+
+TIME	7.768
+SIM_END		Examples_FS/FS_Acceleration_noClutch	7.765s	75.0338m
+TIME	16.111
+SIM_START	Examples_FS/FS_Acceleration_noClutch	2018-12-16 17:38:10
+TIME	0.015
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_noClutch
+
+TIME	7.640
+		Acceleration Time = 7.639 seconds
+SIM_END		Examples_FS/FS_Acceleration_noClutch	7.765s	75.0338m
+SIM_START	Examples_FS/FS_Acceleration_noClutch	2018-12-16 17:38:26
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_noClutch
+
+TIME	8.912
+		Acceleration Time = 8.911 seconds
+SIM_END		Examples_FS/FS_Acceleration_noClutch	9.102s	75.0155m
+TIME	13.117
+SIM_START	Examples_FS/FS_Acceleration_noClutch	2018-12-16 17:39:09
+TIME	0.015
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_noClutch
+
+TIME	7.651
+		Acceleration Time = 7.650 seconds
+SIM_END		Examples_FS/FS_Acceleration_noClutch	7.775s	75.0255m
+SIM_START	Examples_FS/FS_Acceleration_noClutch	2018-12-16 17:39:24
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_noClutch
+
+TIME	7.651
+		Acceleration Time = 7.650 seconds
+SIM_END		Examples_FS/FS_Acceleration_noClutch	8.068s	80.0261m
+TIME	11.931
+SIM_START	Examples_FS/FS_Acceleration_6.0	2018-12-16 17:40:06
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_6.0
+
+TIME	6.964
+		Acceleration time = 6.963 seconds
+SIM_END		Examples_FS/FS_Acceleration_6.0	7.28s	80.0422m
+SIM_START	Examples_FS/FS_Acceleration_6.0	2018-12-16 17:40:25
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_6.0
+
+TIME	6.964
+		Acceleration time = 6.963 seconds
+SIM_END		Examples_FS/FS_Acceleration_6.0	7.28s	80.0316m
+TIME	11.384
+SIM_START	Examples_FS/FS_Acceleration_6.0	2018-12-16 17:41:09
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_6.0
+
+TIME	6.920
+		Acceleration time = 6.919 seconds
+SIM_END		Examples_FS/FS_Acceleration_6.0	7.236s	80.035m
+TIME	29.461
+SIM_START	Examples_FS/FS_Acceleration_noClutch	2018-12-16 17:44:54
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_noClutch
+
+TIME	7.631
+		Acceleration Time = 7.630 seconds
+SIM_END		Examples_FS/FS_Acceleration_noClutch	7.976s	80.0255m
+TIME	9.948
+SIM_START	Examples_FS/FS_Acceleration_noClutch	2018-12-16 17:45:16
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_noClutch
+
+TIME	6.664
+		Acceleration Time = 6.663 seconds
+SIM_END		Examples_FS/FS_Acceleration_noClutch	6.957s	80.0457m
+TIME	9.181
+SIM_START	Examples_FS/FS_Acceleration_noClutch	2018-12-16 17:45:41
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+ERROR		Man 0: Unknown command 'Time>3.5 ? DM.Clutch=0'
+
+SIM_ABORT	Examples_FS/FS_Acceleration_noClutch	0s	80.0457m
+SIM_START	Examples_FS/FS_Acceleration_noClutch	2018-12-16 17:45:49
+TIME	0.019
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Acceleration_noClutch
+
+TIME	7.631
+		Acceleration Time = 7.630 seconds
+SIM_END		Examples_FS/FS_Acceleration_noClutch	7.976s	80.0255m
+TIME	21.219
+SIM_START	Examples_FS/FSG_SkidPad_bugged	2018-12-16 17:48:05
+TIME	0.017
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FSG_SkidPad_bugged
+
+TIME	6.470
+SIM_END		Examples_FS/FSG_SkidPad_bugged	6.467s	14.2185m
+TIME	14.339
+SIM_START	Examples_FS/Hockenheim500_GrandPrix	2018-12-16 17:49:28
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/Hockenheim500_GrandPrix
+
+TIME	42.904
+SIM_END		Examples_FS/Hockenheim500_GrandPrix	42.901s	618.49m
+SIM_START	Examples_FS/FSG_SkidPad_bugged	2018-12-16 17:50:11
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FSG_SkidPad_bugged
+
+TIME	47.304
+SIM_END		Examples_FS/FSG_SkidPad_bugged	47.301s	259.43m
+TIME	49.380
+SIM_START	Examples_FS/FS_Nuerburgring_small	2018-12-16 17:50:44
+TIME	0.016
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+TIME	0.000
+SIMULATE	Examples_FS/FS_Nuerburgring_small
+
+TIME	24.498
+SIM_END		Examples_FS/FS_Nuerburgring_small	24.495s	156.42m
+TIME	36.166
+SIM_START	Examples_FS/Endurance_twoStints_FSG_Hockenheim_2017	2018-12-16 17:52:47
+TIME	0.015
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		PowerTrain.Control: Unknown kind 'CM4SL', version 1
+SIM_ABORT	Examples_FS/Endurance_twoStints_FSG_Hockenheim_2017	0s	156.42m
+TIME	0.001
+SIM_START	Examples_FS/FS_Autocross	2018-12-16 18:05:50
+TIME	0.018
+WARNING		IPGDriver: syntax error(s) in licence file (C:\IPG\etc\Licenses): (id=200)
+SIM_END		Examples_FS/FS_Autocross	0s	0m
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,7 @@
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 10:58:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		Start hasn't finished within 240 seconds. Testrun aborted.
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)

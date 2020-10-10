@@ -1,0 +1,243 @@
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:16:01
+TIME	0.000
+SIMULATE	testfsgen
+
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+SIM_ABORT	testfsgen	0.013s	0m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:16:13
+TIME	0.000
+SIMULATE	testfsgen
+
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+SIM_ABORT	testfsgen	0.013s	0m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:16:52
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	34.527
+SIM_END		testfsgen	34.536s	0.0579282m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:17:40
+TIME	0.000
+SIMULATE	testfsgen
+
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+SIM_ABORT	testfsgen	0.013s	0m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:18:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 7872.88 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	20.185
+ERROR		Wheelspeed too high of tire 1: +3605.171
+SIM_ABORT	testfsgen	20.197s	517.749m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:18:35
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 7872.88 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	176.626
+SIM_END		testfsgen	176.635s	3557.66m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:20:50
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		No entry 'PowerTrain.PTKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		Missing entry 'PowerTrain.Engine.TrqFull', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		Missing entry 'PowerTrain.Engine.TrqDrag', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		Missing entry 'PowerTrain.ISG.Mot.TrqMap', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		Missing entry 'PowerTrain.ISG.Gen.TrqMap', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		No entry 'PowerTrain.ISG.VoltageLevel', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		No entry 'PowerTrain.Clutch.ClKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		No entry 'PowerTrain.GearBox.GBKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		No entry 'PowerTrain.DL.DriveSourcePos', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	testfsgen	0s	0m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:21:06
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		No entry 'PowerTrain.PTKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		Missing entry 'PowerTrain.Engine.TrqFull', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		Missing entry 'PowerTrain.Engine.TrqDrag', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		Missing entry 'PowerTrain.ISG.Mot.TrqMap', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		Missing entry 'PowerTrain.ISG.Gen.TrqMap', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		No entry 'PowerTrain.ISG.VoltageLevel', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		No entry 'PowerTrain.Clutch.ClKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		No entry 'PowerTrain.GearBox.GBKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		No entry 'PowerTrain.DL.DriveSourcePos', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	testfsgen	0s	0m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:21:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		No entry 'PowerTrain.PTKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		Missing entry 'PowerTrain.Engine.TrqFull', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		Missing entry 'PowerTrain.Engine.TrqDrag', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		Missing entry 'PowerTrain.ISG.Mot.TrqMap', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		Missing entry 'PowerTrain.ISG.Gen.TrqMap', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		No entry 'PowerTrain.ISG.VoltageLevel', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		No entry 'PowerTrain.Clutch.ClKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		No entry 'PowerTrain.GearBox.GBKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		No entry 'PowerTrain.DL.DriveSourcePos', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.0'
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	testfsgen	0s	0m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:21:41
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'
+ERROR		No entry 'PowerTrain.PTKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		Missing entry 'PowerTrain.Engine.TrqFull', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		Missing entry 'PowerTrain.Engine.TrqDrag', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		Missing entry 'PowerTrain.ISG.Mot.TrqMap', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		Missing entry 'PowerTrain.ISG.Gen.TrqMap', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		No entry 'PowerTrain.ISG.VoltageLevel', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		No entry 'PowerTrain.Clutch.ClKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		No entry 'PowerTrain.GearBox.GBKind', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		No entry 'PowerTrain.DL.DriveSourcePos', file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Vehicle/.tmp_m4311-18-04_jom8992.1'
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	testfsgen	0s	0m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:22:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (1750 < 7872.88 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	11.651
+SIM_END		testfsgen	11.66s	197.996m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:23:20
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	129.347
+SIM_END		testfsgen	129.353s	2617.55m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:26:11
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	90.627
+SIM_END		testfsgen	90.636s	2482.42m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:27:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	83.841
+SIM_END		testfsgen	83.85s	2742.08m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:28:10
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	24.397
+SIM_END		testfsgen	24.406s	259.004m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:28:32
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	39.449
+SIM_END		testfsgen	39.458s	426.382m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:29:02
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	14.407
+SIM_END		testfsgen	14.416s	111.061m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:29:23
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	45.536
+SIM_END		testfsgen	45.545s	740.638m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:46:25
+TIME	0.001
+ERROR		Tire 0 MF52: 'Roll.QSY1' must be positive
+ERROR		Tire 0 MF52: Initialization failed, file 'P:/FS_Generic_Plus_Schanzer_2019/Data/Tire/C19_CONTINENTAL_FORMULASTUDENT_test'
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	testfsgen	0s	0m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-02 17:54:22
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected PowerTrainXWD model; calculation using DVA is possible, but without 'integration substepping'

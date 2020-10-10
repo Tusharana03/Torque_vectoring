@@ -1,0 +1,355 @@
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:38:42
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	70.195
+ERROR		Roll angle too high (80.07 deg)
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+SIM_ABORT	testfsgen	70.207s	1420.85m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:40:27
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	46.876
+ERROR		Vehicle leaves road at about x=-129.992, y=-200.034 TireNo=1
+SIM_ABORT	testfsgen	46.888s	963.821m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:42:38
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	43.557
+ERROR		Embedded FARoadSensor Geo:  xyz (-42.54 -207.51 0.33) not found on Road
+SIM_ABORT	testfsgen	43.569s	887.899m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:43:35
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	44.200
+ERROR		Vehicle leaves road at about x=-45.848, y=-209.306 TireNo=0
+SIM_ABORT	testfsgen	44.212s	890.528m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:44:45
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	59.771
+SIM_END		testfsgen	59.78s	1218.58m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:51:45
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	43.634
+ERROR		Embedded FARoadSensor Geo:  xyz (-28.14 -197.74 0.41) not found on Road
+SIM_ABORT	testfsgen	43.646s	875.373m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:52:45
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	45.526
+ERROR		Vehicle leaves road at about x=-61.2127, y=-213.612 TireNo=1
+SIM_ABORT	testfsgen	45.538s	902.613m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:53:55
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	testfsgen	0s	0m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:54:42
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	38.664
+SIM_END		testfsgen	38.673s	773.031m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:57:42
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	34.612
+ERROR		Embedded FARoadSensor Geo:  xyz (-30.60 -199.91 0.40) not found on Road
+SIM_ABORT	testfsgen	34.624s	676.521m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:58:35
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	35.220
+ERROR		Vehicle leaves road at about x=-50.2073, y=-210.612 TireNo=0
+SIM_ABORT	testfsgen	35.232s	692.335m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 18:59:38
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	35.158
+ERROR		Embedded FARoadSensor Geo:  xyz (-33.63 -202.25 0.38) not found on Road
+SIM_ABORT	testfsgen	35.17s	679.341m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:00:33
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	36.315
+ERROR		Vehicle leaves road at about x=-40.6286, y=-206.824 TireNo=0
+SIM_ABORT	testfsgen	36.327s	685.296m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:01:28
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	37.611
+ERROR		Vehicle leaves road at about x=-50.461, y=-210.529 TireNo=0
+SIM_ABORT	testfsgen	37.623s	692.635m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:02:40
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	41.959
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+SIM_END		testfsgen	41.968s	756.114m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:03:45
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	50.012
+SIM_END		testfsgen	50.021s	882.733m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:04:55
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	41.531
+SIM_END		testfsgen	41.54s	737.452m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:06:24
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	59.250
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+SIM_END		testfsgen	59.26s	1052.12m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:10:17
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	34.465
+ERROR		Embedded FARoadSensor Geo:  xyz (-35.53 -203.57 0.40) not found on Road
+SIM_ABORT	testfsgen	34.477s	681.024m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:11:09
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	44.741
+SIM_END		testfsgen	44.75s	808.534m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:12:03
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+ERROR		CM_Main.c: Initialization failed (CM_Main_Begin()=-3)
+SIM_ABORT	testfsgen	0s	0m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:12:13
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	35.188
+ERROR		Embedded FARoadSensor Geo:  xyz (-45.09 -208.64 0.37) not found on Road
+SIM_ABORT	testfsgen	35.2s	689.031m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:13:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	36.819
+ERROR		Vehicle leaves road at about x=-64.0174, y=-214.45 TireNo=1
+SIM_ABORT	testfsgen	36.831s	703.743m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:14:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	40.154
+SIM_END		testfsgen	40.163s	745.322m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:15:09
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	45.689
+SIM_END		testfsgen	45.698s	858.624m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:16:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	46.977
+SIM_END		testfsgen	46.986s	874.224m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:17:08
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	73.668
+ERROR		Vehicle leaves road at about x=-115.072, y=-311.406 TireNo=2
+SIM_ABORT	testfsgen	73.68s	1384.49m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:19:07
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	40.256
+SIM_END		testfsgen	40.265s	733.269m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:20:14
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	44.458
+SIM_END		testfsgen	44.467s	803.189m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=147, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	testfsgen	2019-12-08 19:21:15
+TIME	0.001
+WARNING		PowerTrain OpenXWD: No selected DriveLineXWD model; calculation using DVA is possible, but without 'integration substepping'
+WARNING		PowerTrain 'OpenXWD with engine': maximum possible generator speed of ISG motor is less than the maximum possible engine speed (7000 < 13762.7 rpm)
+TIME	0.000
+SIMULATE	testfsgen
+
+TIME	52.741
+SIM_END		testfsgen	52.748s	966.328m

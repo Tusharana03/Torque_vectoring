@@ -1,0 +1,76 @@
+
+
+SYSTEM_START	-	nb-jad	nb-jad	2018-12-16 16:32:17
+
+
+SYSTEM_INFO	CarMaker 7.0.3 - Car_Generic #420	fh@obelix.ipg 2018-10-05 14:03:44	(7.0.3 fh@obelix.ipg 2018-10-05 14:03:42)
+SIM	1544974337	nb-jad			0	0	0
+SIM	1544974340	nb-jad	jad	Examples_FS/FS_Braking	0	41.687	421.732
+SIM	1544974403	nb-jad	jad	Examples_FS/FS_Braking	0	3.457	7.43999
+SIM	1544975124	nb-jad	jad	Examples_FS/FS_Braking	0	11.33	137.34
+SIM	1544975645	nb-jad	jad	Examples_FS/FS_Braking	0	6.644	56.2634
+SIM	1544975664	nb-jad	jad	Examples_FS/FS_Braking	0	3.888	12.4143
+SIM	1544975708	nb-jad	jad	Examples_FS/FS_Braking	0	41.689	421.844
+SIM	1544976181	nb-jad	jad	Examples_FS/FS_Braking	0	7.512	69.7902
+SIM	1544976304	nb-jad	jad	Examples_FS/FS_Braking	0	7.408	57.724
+SIM	1544976320	nb-jad	jad	Examples_FS/FS_Braking	0	7.896	78.6129
+SIM	1544976371	nb-jad	jad	Examples_FS/FS_Braking	0	2.423	0.78872
+SIM	1544976401	nb-jad	jad	Examples_FS/FS_Braking	0	4.275	17.955
+SIM	1544976584	nb-jad	jad	Examples_FS/FS_Braking	0	7.669	74.7401
+SIM	1544976611	nb-jad	jad	Examples_FS/FS_Braking	0	3.175	4.84413
+SIM	1544976624	nb-jad	jad	Examples_FS/FS_Braking	0	5.238	33.5948
+SIM	1544976640	nb-jad	jad	Examples_FS/FS_Braking	0	5.541	38.6608
+SIM	1544976735	nb-jad	jad	Examples_FS/FS_Braking	0	41.689	421.844
+SIM	1544976786	nb-jad	jad	Examples_FS/FS_Braking	0	23.385	343.508
+SIM	1544976796	nb-jad	jad	Examples_FS/FS_Braking	0	9.407	104.426
+SIM	1544976816	nb-jad	jad	Examples_FS/FS_Braking	0	31.687	421.844
+SIM	1544977231	nb-jad	jad	Examples_FS/FS_Acceleration_6.0	0	15.352	175.047
+SIM	1544977575	nb-jad	jad	Examples_FS/FS_Acceleration_6.0	0	10.454	80.0205
+SIM	1544977829	nb-jad	jad	Examples_FS/FS_Acceleration_6.0	2	0	80.0205
+SIM	1544977837	nb-jad	jad	Examples_FS/FS_Acceleration_6.0	0	10.454	80.0205
+SIM	1544977877	nb-jad	jad	Examples_FS/FS_Acceleration_6.0	0	10.454	80.0205
+SIM	1544977896	nb-jad	jad	Examples_FS/FS_Acceleration_6.0	0	10.454	80.0205
+SIM	1544977989	nb-jad	jad	Examples_FS/FS_Acceleration_6.0	0	7.28	80.0316
+SIM	1544978197	nb-jad	jad	Examples_FS/FS_Acceleration_noClutch	0	7.765	75.0338
+SIM	1544978290	nb-jad	jad	Examples_FS/FS_Acceleration_noClutch	0	7.765	75.0338
+SIM	1544978306	nb-jad	jad	Examples_FS/FS_Acceleration_noClutch	0	9.102	75.0155
+SIM	1544978349	nb-jad	jad	Examples_FS/FS_Acceleration_noClutch	0	7.775	75.0255
+SIM	1544978364	nb-jad	jad	Examples_FS/FS_Acceleration_noClutch	0	8.068	80.0261
+SIM	1544978406	nb-jad	jad	Examples_FS/FS_Acceleration_6.0	0	7.28	80.0422
+SIM	1544978425	nb-jad	jad	Examples_FS/FS_Acceleration_6.0	0	7.28	80.0316
+SIM	1544978469	nb-jad	jad	Examples_FS/FS_Acceleration_6.0	0	7.236	80.035
+SIM	1544978694	nb-jad	jad	Examples_FS/FS_Acceleration_noClutch	0	7.976	80.0255
+SIM	1544978716	nb-jad	jad	Examples_FS/FS_Acceleration_noClutch	0	6.957	80.0457
+SIM	1544978741	nb-jad	jad	Examples_FS/FS_Acceleration_noClutch	1	0	80.0457
+SIM	1544978749	nb-jad	jad	Examples_FS/FS_Acceleration_noClutch	0	7.976	80.0255
+SIM	1544978885	nb-jad	jad	Examples_FS/FSG_SkidPad_bugged	0	6.467	14.2185
+SIM	1544978968	nb-jad	jad	Examples_FS/Hockenheim500_GrandPrix	0	42.901	618.49
+SIM	1544979011	nb-jad	jad	Examples_FS/FSG_SkidPad_bugged	0	47.301	259.43
+SIM	1544979044	nb-jad	jad	Examples_FS/FS_Nuerburgring_small	0	24.495	156.42
+SIM	1544979167	nb-jad	jad	Examples_FS/Endurance_twoStints_FSG_Hockenheim_2017	1	0	156.42
+SIM	1544979950	nb-jad	jad	Examples_FS/FS_Autocross	0	0	0
+
+
+SYSTEM_START	-	nb-jad	nb-jad	2018-12-16 18:05:59
+
+
+SYSTEM_INFO	CarMaker 7.0.3 - Car_Generic #420	fh@obelix.ipg 2018-10-05 14:03:44	(7.0.3 fh@obelix.ipg 2018-10-05 14:03:42)
+SIM	1544979959	nb-jad			0	0	0
+SIM	1544979963	nb-jad	jad	Examples_FS/FS_Autocross	0	12.028	30.0044
+SIM	1544979977	nb-jad	jad	Examples_FS/FS_Autocross	0	91.902	493.539
+SIM	1544980043	nb-jad	jad	Examples_FS/FS_Autocross	0	40.714	206.164
+SIM	1544980065	nb-jad	jad	Examples_FS/FS_Autocross	0	26.157	107.674
+SIM	1544980801	nb-jad	jad	FCM_Tutorial/Tutorial_FS_Example_6_0	1	0	107.674
+SIM	1544980897	nb-jad	jad	FCM_Tutorial/Tutorial_FS_Example_6_0	0	0	0
+
+
+SYSTEM_START	-	nb-jad	nb-jad	2018-12-16 18:21:46
+
+
+SYSTEM_INFO	CarMaker 7.0.3 - Car_Generic #420	fh@obelix.ipg 2018-10-05 14:03:44	(7.0.3 fh@obelix.ipg 2018-10-05 14:03:42)
+SIM	1544980906	nb-jad			0	0	0
+SIM	1544980909	nb-jad	jad	FCM_Tutorial/Tutorial_FS_Example_6_0	0	3.524	2.79687
+SIM	1544980920	nb-jad	jad	FCM_Tutorial/Tutorial_FS_Example_6_0	0	55.367	393.478
+SIM	1544980959	nb-jad	jad	FCM_Tutorial/Tutorial_FS_Example_6_0	0	36.961	81.0228
+SIM	1544981140	nb-jad	jad	FCM_Tutorial/DVA_RearAxleSteering	0	111.524	1153.93
+SIM	1544981406	nb-jad	jad	FCM_Tutorial/DVA_TiltTest	0	17.151	0.00129319

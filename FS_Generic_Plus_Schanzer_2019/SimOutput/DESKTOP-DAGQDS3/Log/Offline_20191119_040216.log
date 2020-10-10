@@ -1,0 +1,134 @@
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 04:03:12
+TIME	0.000
+SIMULATE	unknown
+
+TIME	16.690
+SIM_END		unknown	16.689s	0.00123477m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 04:04:18
+TIME	0.000
+SIMULATE	unknown
+
+TIME	30.786
+SIM_END		unknown	30.785s	537.305m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 04:12:36
+TIME	0.000
+SIMULATE	unknown
+
+TIME	22.064
+SIM_END		unknown	22.063s	363.711m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 04:14:08
+TIME	0.000
+SIMULATE	unknown
+
+TIME	186.892
+SIM_END		unknown	186.891s	3626.93m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 04:17:20
+TIME	0.000
+SIMULATE	unknown
+
+TIME	245.014
+SIM_END		unknown	245.013s	6760.22m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 04:18:29
+TIME	0.000
+SIMULATE	unknown
+
+TIME	208.299
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+ERROR		Zero battery voltage
+SIM_ABORT	unknown	208.301s	6834.08m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 04:19:40
+TIME	0.000
+SIMULATE	unknown
+
+TIME	56.927
+SIM_END		unknown	56.926s	1825.39m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 04:22:06
+TIME	0.000
+SIMULATE	unknown
+
+TIME	89.284
+SIM_END		unknown	89.28s	2896.02m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 04:58:00
+TIME	0.000
+SIMULATE	unknown
+
+TIME	18.013
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+SIM_END		unknown	18.021s	537.758m
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 05:00:41
+TIME	0.000
+SIMULATE	unknown
+
+TIME	32.583
+SIM_END		unknown	32.592s	1019.85m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 07:02:56
+TIME	0.000
+SIMULATE	unknown
+
+ERROR		Vehicle leaves road at about x=-13.9912, y=18.6814 TireNo=0
+SIM_ABORT	unknown	1.966s	19.6936m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 07:03:27
+TIME	0.000
+SIMULATE	unknown
+
+TIME	47.965
+SIM_END		unknown	47.974s	278.613m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
+APPLICATION	CarMaker 7.0.2 - Car_Generic #280 (win64-7.0.2)
+COMPILED	fh@obelix.ipg 2018-09-12 13:21:17
+SIM_START	unknown	2019-11-19 07:05:38
+TIME	0.000
+SIMULATE	unknown
+
+TIME	26.604
+SIM_END		unknown	26.613s	332.357m
+WARNING		Unknown APO msg 6d 61 74 65 76 61 6c 00 ('mateval'), len=141, ch=2
+
